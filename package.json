@@ -1,6 +1,7 @@
 {
     "name": "test-grpc",
     "version": "1.0.0",
+    "license": "MIT",
     "description": "Testing gRPC",
     "scripts": {
         "server": "node src/server.js",
